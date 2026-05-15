@@ -1,4 +1,5 @@
 // Lakshmi Priya 05/15/2026
+//This application prints "Hello, World!" and the numbers 0 to 9.
 
 console.log("Hello world!");
 
