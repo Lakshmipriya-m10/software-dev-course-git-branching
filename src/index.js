@@ -1,5 +1,8 @@
 // Lakshmi Priya 05/15/2026
+<<<<<<< HEAD
 //This application prints "Hello, World!" and the numbers 0 to 9.
+=======
+>>>>>>> feature-conflict
 
 console.log("Hello world!");
 
